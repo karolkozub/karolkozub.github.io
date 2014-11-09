@@ -1,0 +1,11 @@
+# Site settings
+title: Karol Kozub
+email: karol.kozub@gmail.com
+description: 
+baseurl: ""
+url: "http://karol.io"
+twitter_username: krlkzb
+github_username: karolkozub
+
+# Build settings
+markdown: kramdown
