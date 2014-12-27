@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://karol.io"
 twitter_username: krlkzb
 github_username: karolkozub
+permalink: "/:title"
 
 # Build settings
 markdown: kramdown
